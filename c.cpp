@@ -1,18 +1,4 @@
-#include<iostream>
-#include<algorithm>
-#include<cstring>
-#include<vector>
-#include<map>
-#include<cstring>
-#include <stack>
-#include <numeric>
-#include<climits>
-#include<cmath>
-#include<set>
-#include<unordered_set>
-#include<iomanip>
-#include<queue>
-#include<unordered_map>
+#include<bits/stdc++.h> // changed header files
 #define vi vector<float>
 #define vl vector<long long>
 #define all(x) (x).begin(), (x).end()
