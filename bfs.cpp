@@ -1,6 +1,4 @@
-#include <iostream>
-#include <queue> // for bfs
-#include <vector>
+#include<bits/stdc++.h>
 using namespace std;
 
 #define v 6
