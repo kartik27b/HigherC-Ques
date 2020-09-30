@@ -56,7 +56,7 @@ void shortest(int graph[V][V], int source){
 
 
 
-// driver program to test above function 
+
 int main() 
 { 
     /* Let us create the example graph discussed above */
@@ -70,7 +70,7 @@ int main()
                         { 8, 11, 0, 0, 0, 0, 1, 0, 7 }, 
                         { 0, 0, 2, 0, 0, 0, 6, 7, 0 } }; 
   
-  //  dijkstra(graph, 0); 
+  
   	 shortest(graph, 0); 
   
     return 0; 
